@@ -1,1 +1,1 @@
-service master >> aaa push
+service master >> aaa push >>> aaa2222
