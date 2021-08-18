@@ -1,1 +1,1 @@
-service master
+service master >> aaa push
